@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(void){
-	
-	char hello = 'h';
-	printf("Hello Cruel World!\n");
+
+	int hello = 145;
+	printf("Hello Cruel World! %d\n", hello);
 
 	return 0;
 }
